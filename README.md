@@ -2,7 +2,8 @@
 Web-based Expense Tracker | JavaScript | Track and manage daily spending
 # Smart Expense Tracker 💰
 
-A web-based application to track daily expenses, manage budgets, and analyze spending habits efficiently.
+A web-based application to track daily expenses
+anage budgets, and analyze spending habits efficiently.
 
 ## 🚀 Features
 - Add, edit, and delete expenses
@@ -33,4 +34,4 @@ A web-based application to track daily expenses, manage budgets, and analyze spe
 - User authentication
 
 ## 📷 Preview
-
+, m![preview](https://github.com/user-attachments/assets/a3cc6818-1d07-43d4-b09e-e9eabb8da954)
